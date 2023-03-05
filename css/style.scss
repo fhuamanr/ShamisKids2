@@ -4,7 +4,7 @@ $primary1: #f7444e;
 $primary2: #002c3e;
 $textCol: #1f1f1f;
 
-// import fonts -  font-family: 'Poppins', sans-serif and  font-family: 'Playfair Display', serif
+
 
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap');
 
@@ -116,7 +116,7 @@ a:focus {
   box-shadow: none;
 }
 
-/*header section*/
+/*Sección Header*/
 .hero_area {
   position: relative;
   min-height: 100vh;
@@ -258,9 +258,9 @@ a:focus {
 
 }
 
-/*end header section*/
+/*Fin Header*/
 
-/* slider section */
+/* Inicio Slider */
 .slider_section {
   flex: 1;
   display: flex;
@@ -348,9 +348,9 @@ a:focus {
   }
 }
 
-// end slider section
+// Fin Slider
 
-// product section
+// Sección Producto
 .product_section {
 
   .heading_container {
@@ -478,9 +478,9 @@ a:focus {
   }
 }
 
-// end product section
+// Fin Producto
 
-// arrival section
+// Sección Novedades
 
 .arrival_section {
   .heading_container {
@@ -514,9 +514,9 @@ a:focus {
   }
 }
 
-// end arrival section
+// Fin Sección Novedades
 
-// why section
+// Inicio Contactanos
 
 .why_section {
 
@@ -541,9 +541,9 @@ a:focus {
   }
 }
 
-//end why section
+// Fin Contactanos
 
-// subscribe section
+// Sección Formulario
 
 .subscribe_section {
   text-align: center;
@@ -596,9 +596,9 @@ a:focus {
   }
 }
 
-// end subscribe section
+// Fin Formulario
 
-// client section
+// Sección Cliente
 
 .client_section {
 
@@ -690,9 +690,9 @@ a:focus {
 
 }
 
-// end client section
+// Fin Sección Cliente
 
-/* footer section*/
+/* Sección Footer*/
 
 .footer_section {
   background-color: $primary2;
@@ -806,4 +806,4 @@ a:focus {
   }
 }
 
-// end footer section
+// Fin Footer
